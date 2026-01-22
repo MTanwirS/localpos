@@ -1,0 +1,6 @@
+## License
+
+All rights reserved.
+
+This software is provided for demonstration and evaluation purposes only.
+No permission is granted for redistribution, modification, or commercial use.
