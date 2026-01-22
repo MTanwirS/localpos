@@ -76,13 +76,13 @@ These constraints are intentional to keep the MVP focused on correctness and cla
 
 ## How to Run
 ### Requirements
-- Windows 7 or later or Linux-based OS
+- Windows 7 or later
 - No additional dependencies
 - No internet connection required
 
 ### Steps
 - Download and unzip the project folder
-- Double-click POS.exe
+- Double-click POS_test_static.exe or run it using Command Prompt
 - The application will start with sample in-memory data
 - Interact with the system to create orders, seat tables, and process bills
 - Edit the main file to try different commands

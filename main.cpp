@@ -86,5 +86,9 @@ int main() {
     std::cout << "\n=== Payment 2 Summary ===\n" << pay2.summary() << "\n";
 
     std::cout << "=== End of Test ===\n";
+
+    std::cout << "Press any key to exit" ;
+    std::cin.get() ;
+
     return 0;
 }
